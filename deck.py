@@ -1,4 +1,4 @@
-[
+cards = [
   ["mew", 70, "psychic", [3, 100, "fighting"], [5, 200, "fire"]],
   ["pikachu", 60, "electric", [1, 30, "electric"], [3, 90, "steel"]],
   ["umbreon", 110, "dark", [2, 60, "psychic"], [4, 150, "dark"]],
